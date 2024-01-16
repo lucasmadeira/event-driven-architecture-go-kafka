@@ -2,7 +2,7 @@
 
 ### Abra um terminal no diretório raiz do seu projeto e execute o seguinte comando: 
 
-#### docker-compose up -d --build.
+#### docker-compose up --build -d
 
 ### Quando todos os container estiverem up gerar algumas transações usando o arquivo transactions.http na pasta /api/ do projeto:
 
